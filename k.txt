@@ -1,3 +1,7 @@
-aserfa"fkle\Z" \,a z[e'pr\ \po;3IWER AER
-A KRT]AP[ LE\KTF
- \2AW3 ROKLJ8
+#include <iostream>
+
+using namespace std;
+
+int main(){
+    cout << "Hello World!!!";
+}
